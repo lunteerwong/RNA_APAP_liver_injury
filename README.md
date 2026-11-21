@@ -8,7 +8,7 @@ Time-series transcriptomics analysis of APAP-induced liver injury
 
 ## 数据来源
 - 数据库：GEO
-- 数据集编号：GSEXXXXX（跑完后填）
+- 数据集编号：GSE305543、GSE309117、GSE111828
 - 样本信息：多个时间点（0h/2h/6h/12h/24h等）
 
 ## 分析流程
