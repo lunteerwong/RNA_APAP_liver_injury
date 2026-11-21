@@ -1,4 +1,4 @@
-# RNA_APAP_liver_injury
+# RNA:_APAP_liver_injury
 
 # APAP肝损伤，时间序列转录组分析
 Time-series transcriptomics analysis of APAP-induced liver injury
